@@ -1,0 +1,47 @@
+body{
+  background-color: teal;
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+  font-style: Montserrat;
+}
+h2{
+  font-size: 32px;
+  font-style: Oi;
+}
+h3{
+  font-size: 24px;
+}
+p{
+  font-size: 18px;
+}
+ul{
+  list-style-type: none;
+}
+ul li{
+  background: indigo;
+  font-size: 24px;
+}
+ul.list{
+  margin: 10px
+}
+p.disclaimer{
+  font-style: italic;
+}
+header{
+  background: cyan;
+  font-size: 25px;
+  font-style: italic;
+}
+footer{
+  background: magenta;
+  font-size: 25px;
+}
+nav{
+   position: sticky;
+    top: 0;
+    font-size: 24px;
+    overflow: hidden;
+    background-color: Green;
+}
